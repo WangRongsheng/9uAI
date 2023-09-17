@@ -10,7 +10,7 @@ sections:
       title: |
         <br>
         <br>
-        welcome to
+        😃Welcome to
         9U AI Research Group
       image:
         filename: welcome.jpg
