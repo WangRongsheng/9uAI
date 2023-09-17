@@ -8,7 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        <br>
+        <br>
+        <br>
+        welcome to
         9u AI Research Group
       image:
         filename: welcome.jpg
