@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Wowchemy
-        Research Group
+        9u AI Research Group
       image:
         filename: welcome.jpg
       text: |
