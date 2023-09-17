@@ -10,14 +10,13 @@ sections:
       title: |
         <br>
         <br>
-        <br>
         welcome to
-        9u AI Research Group
+        9U AI Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We are dedicated to building **safe**, **reliable**, and **practical** visual and language AI models to serve society.
 
 ---
