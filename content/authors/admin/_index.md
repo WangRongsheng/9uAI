@@ -28,14 +28,14 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: -
+      year: -
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Macao Polytechnic University
+      year: 2022
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Henan Polytechnic University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ social:
 email: 'wrs6@88.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
