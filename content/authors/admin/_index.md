@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: -
-      year: -
+      institution: xxx
+      year: 2024
     - course: MEng in Artificial Intelligence
       institution: Macao Polytechnic University
       year: 2022
