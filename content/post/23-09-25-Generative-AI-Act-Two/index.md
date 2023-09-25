@@ -1,5 +1,5 @@
 ---
-title: Generative AI’s Act Two
+title: The Next Chapter in Generative AI
 date: 2023-09-25
 image:
   focal_point: 'top'
