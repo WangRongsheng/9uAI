@@ -1,9 +1,9 @@
 ---
 title: Generative AI’s Act Two
 date: 2023-09-25
+image:
+  focal_point: 'top'
 ---
-
-> This article is from [Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
 
 One year ago, we published a hypothesis that generative AI would become a profound platform shift in technology. Then came the firestorm.
 
@@ -115,3 +115,5 @@ As we approach the frontier paradox and as the novelty of transformers and diffu
 At Sequoia we remain steadfast believers in generative AI. The necessary conditions for this market to take flight have accumulated over the span of decades, and the market is finally here. The emergence of killer applications and the sheer magnitude of end user demand has deepened our conviction in the market.
 
 However, Amara’s Law—the phenomenon that we tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run—is running its course. We are applying patience and judgment in our investment decisions, with careful attention to how founders are solving the value problem. The shared playbook companies are using to push the boundaries on model performance and product experiences gives us optimism on generative AI’s second act.
+
+> This article is from [Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
