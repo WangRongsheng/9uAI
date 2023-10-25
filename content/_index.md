@@ -11,7 +11,7 @@ sections:
         <br>
         <br>
         😃Welcome to
-        9U AI Research Group
+        QiyiGuo Research Group
       image:
         filename: welcome.jpg
       text: |
